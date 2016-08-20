@@ -27,4 +27,4 @@ return {
       planetsLandedOn = numLanded;
      }
     }
-})(); //not working for some reason..says SolarSytem undefined?
+})();

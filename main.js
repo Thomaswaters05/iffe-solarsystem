@@ -6,11 +6,12 @@
 console.log(SolarSystem);
 console.log(SolarSystem.getPlanets());
 console.log(SolarSystem.getActiveSpacecraft());
-console.log(SolarSystem.planetsLandedOn());
+console.log(SolarSystem.getplanetsLandedOn());
 
-
-
-
+console.log(SolarSystem.getclosestStars());
+SolarSystem.setageOfSolarSystem(100);
+console.log(SolarSystem.setageOfSolarSystem());
+console.log(SolarSystem.getdwarfPlanets());
 
 
 
