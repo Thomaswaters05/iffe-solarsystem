@@ -11,4 +11,4 @@ http-server -p 9999
 then navigate to http://localhost:9999 in your browser.
 
 ## Contributors
--[Tommy Waters](https://github.com/Thomaswaters05)
+- [Tommy Waters](https://github.com/Thomaswaters05)
